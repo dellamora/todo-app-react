@@ -28,7 +28,7 @@ form button {
   background: white;
 }
 form button {
-  margin: 5px;
+  margin: -15px;
   color: #44b5e6;
   background: #f7fffe;
   cursor: pointer;
@@ -116,7 +116,6 @@ select {
   overflow: hidden;
 }
 select {
-  border-radius: 0%;
   color: #29abe2;
   font-family: "Poppins", sans-serif;
   cursor: pointer;
